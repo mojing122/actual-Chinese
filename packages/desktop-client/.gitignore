@@ -27,4 +27,4 @@ public/data-file-index.txt
 public/*.wasm
 
 # translations
-locale/
+# locale/
